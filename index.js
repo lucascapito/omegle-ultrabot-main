@@ -19,8 +19,8 @@ const versao = "android" //pc por padrao, mude para android se for usar no termu
 
 //INFORME AS MENSAGENS:
   const mensagens = [
-       "ooi, tudo bem?"
-"me chamo Lucas e vendo artes feitas por inteligencia articial, inclusive aquilo que vc ta procurando aqui ;)"
+       "ooi, tudo bem?",
+"me chamo Lucas e vendo artes feitas por inteligencia articial, inclusive aquilo que vc ta procurando aqui ;)",
 "tg é LauriaSouza, chama la""    
             ];
 
