@@ -31,7 +31,7 @@ tentativas = 0
 safeMod = true
 solving = true
 tempo_atual = 0
-let delayMsg = 50
+let delayMsg = 4000
 
 if (versao == "pc") {
      var puppeteer = require("puppeteer")
