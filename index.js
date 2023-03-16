@@ -19,19 +19,19 @@ const versao = "android" //pc por padrao, mude para android se for usar no termu
 
 //INFORME AS MENSAGENS:
   const mensagens = [
-       "ooi, tudo bem? me chamo Lucas e vendo artes feitas por inteligencia articial, inclusive aquilo que vc tá procurando aqui ;)! tg é LauriaSouza, chama lá"        
+       "ooi, tudo bem? me chamo Lucas e vendo artes feitas por inteligencia articial, inclusive aquilo que vc ta procurando aqui ;) tg é LauriaSouza, chama la"        
             ];
 
 
 
-blacklistBAN = false
+blacklistBAN = true
 currentTimestamp = "";
 finaltime = "";
 tentativas = 0
 safeMod = true
 solving = true
 tempo_atual = 0
-let delayMsg = 4000
+let delayMsg = 50
 
 if (versao == "pc") {
      var puppeteer = require("puppeteer")
