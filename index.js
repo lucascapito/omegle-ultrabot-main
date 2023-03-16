@@ -18,13 +18,11 @@ const { exec } = require('child_process');
 const versao = "android" //pc por padrao, mude para android se for usar no termux.
 
 //INFORME AS MENSAGENS:
-  const mensagens = [
-       "ooi, tudo bem?",
-"me chamo Lucas e vendo artes feitas por inteligencia articial, inclusive aquilo que vc ta procurando aqui ;)",
-"tg é LauriaSouza, chama la""    
-            ];
-
-
+  const mensagens = [ 
+        "Oi, tudo bem? faço umas pics em inteligencia artificial", 
+        "Me chama no tg!", 
+        "lauriasouza"         
+             ];
 
 blacklistBAN = true
 currentTimestamp = "";
