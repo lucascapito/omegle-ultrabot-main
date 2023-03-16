@@ -29,7 +29,7 @@ currentTimestamp = "";
 finaltime = "";
 tentativas = 0
 safeMod = true
-solving = false
+solving = true
 tempo_atual = 0
 let delayMsg = 50
 
