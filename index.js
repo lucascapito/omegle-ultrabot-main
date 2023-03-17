@@ -19,7 +19,7 @@ const versao = "android" //pc por padrao, mude para android se for usar no termu
 
 //INFORME AS MENSAGENS:
   const mensagens = [ 
-        "Oi, tudo bem? faço umas pics em inteligencia artificial", 
+        "Oi, tudo bem? crio n4d3s utrarrealistas por ia", 
         "Me chama no tg!", 
         "lauriasouza"         
              ];
