@@ -19,9 +19,7 @@ const versao = "android" //pc por padrao, mude para android se for usar no termu
 
 //INFORME AS MENSAGENS:
   const mensagens = [ 
-        "Oi, tudo bem? crio n4d3s utrarrealistas por ia", 
-        "Me chama no tg!", 
-        "lauriasouza"         
+        "ooi, como vai? criei uns p4ck5 em 1.A. e to v3nd3nd0 no t3l3gram lauriasouza, vale a pena"         
              ];
 
 blacklistBAN = true
